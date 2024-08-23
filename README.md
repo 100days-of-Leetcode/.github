@@ -4,7 +4,7 @@ Join us in improving our coding skills through daily problem-solving!
 
 ## How to Participate
 
-1. Join our GitHub organization: [Link]
+1. Join our GitHub organization: [Link](https://github.com/100days-of-Leetcode)
 2. Create a repo: `YourGitHubUsername`
 3. Join WhatsApp group: [Link](https://chat.whatsapp.com/Eq12fPwvhMSGp2eo3ED8Be)
 
