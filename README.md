@@ -10,15 +10,16 @@ Join us in improving our coding skills through daily problem-solving!
 
 ## Daily Routine
 
-1. Visit [NeetCode.io](https://neetcode.io/practice)
-2. Click a problem to open it on LeetCode
-3. Try solving it on LeetCode
-4. If stuck, watch NeetCode's video solution
-5. Create a file in your repo (e.g., `day1_two_sum.py`)
-6. Include the problem description as a comment/docstring
-7. Add your solution code
-8. Commit and push
-9. Share progress in the WhatsApp group
+1. Visit [NeetCode.io](https://neetcode.io/roadmap)
+2. Follow the roadmap
+3. Click a problem to open it on LeetCode
+4. Try solving it on LeetCode
+5. If stuck, watch NeetCode's video solution
+6. Create a file in your repo (e.g., `day1_two_sum.py`)
+7. Include the problem description as a comment/docstring
+8. Add your solution code
+9. Commit and push
+10. Share progress in the WhatsApp group
 
 ## File Format
 
