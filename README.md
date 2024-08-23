@@ -5,12 +5,12 @@ Join us in improving our coding skills through daily problem-solving!
 ## How to Participate
 
 1. Join our GitHub organization: [Link]
-2. Create a repo: `100DaysOfLeetCode-YourGitHubUsername`
-3. Join WhatsApp group: [Link]
+2. Create a repo: `YourGitHubUsername`
+3. Join WhatsApp group: [Link](https://chat.whatsapp.com/Eq12fPwvhMSGp2eo3ED8Be)
 
 ## Daily Routine
 
-1. Visit [NeetCode.io](https://neetcode.io/)
+1. Visit [NeetCode.io](https://neetcode.io/practice)
 2. Click a problem to open it on LeetCode
 3. Try solving it on LeetCode
 4. If stuck, watch NeetCode's video solution
